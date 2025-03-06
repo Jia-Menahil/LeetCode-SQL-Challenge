@@ -9,6 +9,8 @@ This repository contains my solutions for the [Leetcode SQL 50 problems](https:/
 - ✅ Day 5: [Invalid Tweets](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1683.%20Invalid%20Tweets.sql)
 - ✅ Day 6: [Replacing employee id with the unique identifier](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
 - ✅ Day 7: [Product Sales Analysis](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1068.%20Product%20Sales%20Analysis%20I.sql)
+- ✅ Day 8: [Customers who made no transactions](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)
+  
 
 ## 📚 Database Used  
 - MySQL  
