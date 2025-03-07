@@ -12,6 +12,7 @@ This repository contains my solutions for the [Leetcode SQL 50 problems](https:/
 - ✅ Day 8: [Customers who made no transactions](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)
 - ✅ Day 9: [Rising Temperature](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/197.%20Rising%20Temperature.sql)
 - ✅ Day 10: [Average Process Time Per Machine](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql)
+- ✅ Day 11: [Employee Bonus](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/577.%20Employee%20Bonus.sql)
 
 ## 📚 Database Used  
 - MySQL  
