@@ -13,6 +13,7 @@ This repository contains my solutions for the [Leetcode SQL 50 problems](https:/
 - ✅ Day 9: [Rising Temperature](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/197.%20Rising%20Temperature.sql)
 - ✅ Day 10: [Average Process Time Per Machine](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql)
 - ✅ Day 11: [Employee Bonus](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/577.%20Employee%20Bonus.sql)
+- ✅ Day 12: [Students and Examinations, joining three tables](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1280.%20Students%20and%20Examinations.sql)
 
 ## 📚 Database Used  
 - MySQL  
