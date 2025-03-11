@@ -17,6 +17,7 @@ This repository contains my solutions for the [Leetcode SQL 50 problems](https:/
 - ✅ Day 13: [Managers with at Least 5 Direct Reports; 'IN' and 'self join'](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
 - ✅ Day 14: [Confirmation Rate; case when](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1934.%20Confirmation%20Rate.sql)
 - ✅ Day 15: [Not boring movies](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/620.%20Not%20Boring%20Movies.sql)
+- ✅ Day 16: [Average Selling Price](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1251.%20Average%20Selling%20Price.sql)
   
 ## 📚 Database Used  
 - MySQL  
