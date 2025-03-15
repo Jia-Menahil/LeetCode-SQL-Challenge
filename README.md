@@ -18,7 +18,7 @@ This repository contains my solutions for the [Leetcode SQL 50 problems](https:/
 - ✅ Day 14: [Confirmation Rate; case when](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1934.%20Confirmation%20Rate.sql)
 - ✅ Day 15: [Not boring movies](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/620.%20Not%20Boring%20Movies.sql)
 - ✅ Day 16: [Average Selling Price](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1251.%20Average%20Selling%20Price.sql)
-- ✅ Day 17: [Project Employees I]()
+- ✅ Day 17: [Project Employees I](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1075.%20Project%20Employees%20I.sql)
   
 ## 📚 Database Used  
 - MySQL  
