@@ -22,6 +22,7 @@ This repository contains my solutions for the [Leetcode SQL 50 problems](https:/
 - ✅ Day 18: [Percentage of Users Attended a Contest](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.sql)
 - ✅ Day 19: [Queries Quality and Percentage](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1211.%20Queries%20Quality%20and%20Percentage.sql)
 - ✅ Day 20: [Immediate Food Delivery II](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/1174.%20Immediate%20Food%20Delivery%20II.sql)
+- ✅ Day 21: [Number of Unique Subjects Taught by Each Teacher](https://github.com/Jia-Menahil/LeetCode-SQL-Challenge/blob/main/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
   
 ## 📚 Database Used  
 - MySQL  
